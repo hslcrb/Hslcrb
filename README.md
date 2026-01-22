@@ -34,8 +34,8 @@ I am **Rheehose**, the founder and lead developer at **Rhee Creative**. My philo
 - 🏛️ **Philosophy**: "Pure. Potent. Permanent." — crafting software that lasts and feels premium.
 - 🔋 **Daily Routine**: High-performance coding, aesthetic refining, and system stabilization.
 - 📍 **Location**: Suwon, South Korea.
-- ✝️ **Faith**: Dedicated Christian. Living by the word of God.
-- 📖 **Verse**: *Matthew 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=for-the-badge&logo=icloud&logoColor=white)
+- ✝️ **Faith**: Dedicated Protestant. Living by the word of God.
+- 📖 **Verse**: *Matthew 10:34*. ![Protestantism](https://img.shields.io/badge/Faith-Protestant-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
@@ -133,8 +133,8 @@ My work is a tribute to the optimistic digital era of the mid-2000s, blended wit
 - 🏛️ **철학**: "Pure. Potent. Permanent." — 유행을 타지 않는 본질적이고 품격 있는 소프트웨어.
 - � **데일리에너지**: 고성능 코딩, 미학적 정교화, 그리고 시스템 안정화.
 - 📍 **위치**: 대한민국 수원.
-- ✝️ **신앙**: 기독교 (Dedicated Christian). 하나님의 말씀을 삶의 지표로 삼습니다.
-- 📖 **말씀**: *마태복음 10:34*. ![Christianity](https://img.shields.io/badge/%EC%8B%A0%EC%95%99-%EA%B8%B0%EB%8F%85%EA%B5%90-blue?style=for-the-badge&logo=icloud&logoColor=white)
+- ✝️ **신앙**: 개신교 (Dedicated Protestant). 하나님의 말씀을 삶의 지표로 삼습니다.
+- 📖 **말씀**: *마태복음 10:34*. ![Protestantism](https://img.shields.io/badge/%EC%8B%A0%EC%95%99-%EA%B0%9C%EC%8B%A0%EA%B5%90-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
