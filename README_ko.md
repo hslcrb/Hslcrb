@@ -7,6 +7,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=00D2FF&width=600&lines=%EB%8F%84%EC%A0%84%EC%9D%B4+%ED%81%B4%EC%82%AC%EB%A1%9D...;%EB%B3%B4%EC%83%81%EC%9D%80+%EB%8D%94+%EA%B0%92%EC%A7%91%EB%8B%88%EB%8B%A4.;RHEE+CREATIVE+%ED%98%81%EC%8B%A0;%EB%A7%88%ED%83%9C%EB%B3%B5%EC%9D%8C+10:34+%EC%95%84%EB%A9%98.)](https://git.io/typing-svg)
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D2FF&height=100&section=header&text=%EB%A7%88%ED%83%9C%EB%B3%B5%EC%9D%8C%2010:34%20✝️&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%"/>
+  <br/>
+
   <p align="center">
     <a href="https://github.com/hslcrb/Hslcrb/blob/main/README.md">🇺🇸 English Version</a> | 
     <a href="https://www.rheehose.com">🌐 포트폴리오</a> | 
@@ -24,11 +27,12 @@
 
 반갑습니다, **Rhee Creative**의 창립자이자 리드 개발자 **Rheehose**입니다. 저는 "도전이 클수록 그 보상은 더욱 값지다"는 신념을 바탕으로 개발에 임하고 있습니다. 저성능 시스템 최적화부터 **글래스모피즘(Glassmorphism)** 및 **프루티거 에어로(Frutiger Aero)** 미학을 결합한 고품격 애플리케이션 개발에 주력하고 있습니다.
 
--  telescope **집중 분야**: 시스템 최적화, 최신 UI/UX 디자인, 개발자 경험(DX) 도구.
+- 🔭 **집중 분야**: 시스템 최적화, 최신 UI/UX 디자인, 개발자 경험(DX) 도구.
 - 🏛️ **철학**: "Pure. Potent. Permanent." — 유행을 타지 않는 본질적이고 품격 있는 소프트웨어.
 - 🔋 **데일리에너지**: 고성능 코딩, 미학적 정교화, 그리고 시스템 안정화.
 - 📍 **위치**: 대한민국 수원.
-- 📖 **말씀**: *마태복음 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=flat-square&logo=icloud&logoColor=white)
+- ✝️ **신앙**: 기독교 (Dedicated Christian). 하나님의 말씀을 삶의 지표로 삼습니다.
+- 📖 **말씀**: *마태복음 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
@@ -132,7 +136,8 @@
 
 ### 🐍 기여 활동 (Activity)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- GitHub Action이 처음 실행된 후에 스네이크 애니메이션이 나타납니다 -->
+  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.src='https://placehold.co/600x200?text=Snake+Animation+Generating...'" />
 </div>
 
 ---

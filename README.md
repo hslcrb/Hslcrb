@@ -7,6 +7,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=00D2FF&width=600&lines=The+bigger+the+challenge...;The+greater+the+reward.;RHEE+CREATIVE+INNOVATION;MATTHEW+10:34+AMEN.)](https://git.io/typing-svg)
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D2FF&height=100&section=header&text=MATTHEW%2010:34%20✝️&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%"/>
+  <br/>
+
   <p align="center">
     <a href="https://github.com/hslcrb/Hslcrb/blob/main/README_ko.md">🇰🇷 한국어 버전</a> | 
     <a href="https://www.rheehose.com">🌐 Portfolio</a> | 
@@ -26,9 +29,10 @@ I am **Rheehose**, the founder and lead developer at **Rhee Creative**. My philo
 
 - 🔭 **Focus**: System optimization, Modern UI/UX, and Developer Experience tools.
 - 🏛️ **Philosophy**: "Pure. Potent. Permanent." — crafting software that lasts and feels premium.
-- � **Daily Routine**: High-performance coding, aesthetic refining, and system stabilization.
-- �📍 **Location**: Suwon, South Korea.
-- 📖 **Verse**: *Matthew 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=flat-square&logo=icloud&logoColor=white)
+- 🔋 **Daily Routine**: High-performance coding, aesthetic refining, and system stabilization.
+- 📍 **Location**: Suwon, South Korea.
+- ✝️ **Faith**: Dedicated Christian. Living by the word of God.
+- 📖 **Verse**: *Matthew 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
@@ -132,7 +136,8 @@ My work is a tribute to the optimistic digital era of the mid-2000s, blended wit
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- The snake will appear here once the Github Action runs for the first time -->
+  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.src='https://placehold.co/600x200?text=Snake+Animation+Generating...'" />
 </div>
 
 ---
