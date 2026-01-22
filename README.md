@@ -1,7 +1,7 @@
 # 💎 R H E E H O S E
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/suwon_header.png" alt="Rhee Creative Suwon Header" width="60%">
+  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/suwon_korea.png" alt="Rhee Creative Suwon Header" width="60%">
   
   <br/>
   
