@@ -23,7 +23,7 @@ I am **Rheehose**, the founder and lead developer at **Rhee Creative**. My philo
 - 🔭 **Focus**: System optimization, Modern UI/UX, and Developer Experience tools.
 - 🏛️ **Philosophy**: "Pure. Potent. Permanent." — crafting software that lasts and feels premium.
 - 📍 **Location**: Suwon, South Korea.
-- 📖 **Verse**: *Matthew 10:34*.
+- 📖 **Verse**: *Matthew 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=flat-square&logo=icloud&logoColor=white)
 
 ---
 
