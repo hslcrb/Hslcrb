@@ -2,17 +2,28 @@
 
 Welcome to the technical directory of **Rhee Creative**. This document provides an overview of the various projects and libraries maintained by **Rheehose**.
 
+## 🏗️ System Architecture Philosophy
+
+Our systems are built on three core pillars:
+1. **Performance First**: Zero-cost abstractions and efficient resource management.
+2. **Visual Narrative**: Every interface tells a story through Frutiger Aero and Glassmorphism.
+3. **Local-First**: Prioritizing user privacy and offline capabilities.
+
+---
+
 ## 🛠️ Applications & Tools
 
 ### [JSONOTE](https://github.com/hslcrb/jsonote)
 - **Description**: A next-generation note-taking app using JSON as the core state.
 - **Tech**: Next.js 14, TypeScript, Tailwind CSS, MCP (Model Context Protocol).
 - **Key Features**: Glassmorphism UI, real-time sync, local-first architecture.
+- **Architecture**: Flux-inspired state management with JSON persistence.
 
 ### [Clipsmith](https://github.com/hslcrb/clipsmith-a_cpp_program)
 - **Description**: Smart clipboard manager with Frutiger Aero design.
 - **Tech**: C++, Qt6, CMake.
 - **Key Features**: History management, image clipping, sleek animations.
+- **Internal**: Event-driven architecture with cross-platform system hooks.
 
 ### [Sleek Downloader](https://github.com/hslcrb/pyflask_sleek-ytdownloader)
 - **Description**: A polished UI wrapper for yt-dlp.
@@ -33,15 +44,22 @@ Welcome to the technical directory of **Rhee Creative**. This document provides 
 
 ### [pypack_makeastar](https://github.com/hslcrb/pypack_makeastar)
 - **Purpose**: Educational tool for generating complex patterns.
-- **Language**: Python.
 
 ---
 
-## 🐧 Core Systems
+## 🐧 Core Systems & Optimization
 
 ### [Rhee-Creatives-linux-v1.0](https://github.com/hslcrb/Rhee-Creatives-linux-v1.0)
 - **Focus**: Kernel-level optimizations for workstation use.
-- **Highlights**: Scheduler tweaks, memory management enhancements.
+- **Highlights**: Scheduler tweaks, memory management enhancements, and refined build scripts.
+
+---
+
+## 🗺️ Roadmap: 2026 & Beyond
+
+- [ ] **Nexus Core**: A unified cross-platform state synchronization library in Rust.
+- [ ] **Aero UI Kit**: A comprehensive CSS/React framework for Frutiger Aero components.
+- [ ] **System-wide Glassmorphism**: Experimental Linux desktop environment theme.
 
 ---
 

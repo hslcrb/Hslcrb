@@ -10,8 +10,12 @@
   <p align="center">
     <a href="https://github.com/hslcrb/Hslcrb/blob/main/README.md">🇺🇸 English Version</a> | 
     <a href="https://www.rheehose.com">🌐 포트폴리오</a> | 
-    <a href="mailto:rheehose@rheehose.com">📧 문의하기</a>
+    <a href="mailto:rheehose@rheehose.com">📧 문의하기</a> |
+    <a href="https://twitter.com/rheehose">🐦 트위터</a> |
+    <a href="https://linkedin.com/in/rheehose">🔗 링크드인</a>
   </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=hslcrb&theme=darkhub&no-bg=true&no-frame=true&column=7" alt="Github Trophies" />
 </div>
 
 ---
@@ -20,10 +24,17 @@
 
 반갑습니다, **Rhee Creative**의 창립자이자 리드 개발자 **Rheehose**입니다. 저는 "도전이 클수록 그 보상은 더욱 값지다"는 신념을 바탕으로 개발에 임하고 있습니다. 저성능 시스템 최적화부터 **글래스모피즘(Glassmorphism)** 및 **프루티거 에어로(Frutiger Aero)** 미학을 결합한 고품격 애플리케이션 개발에 주력하고 있습니다.
 
-- 🔭 **집중 분야**: 시스템 최적화, 최신 UI/UX 디자인, 개발자 경험(DX) 도구.
+-  telescope **집중 분야**: 시스템 최적화, 최신 UI/UX 디자인, 개발자 경험(DX) 도구.
 - 🏛️ **철학**: "Pure. Potent. Permanent." — 유행을 타지 않는 본질적이고 품격 있는 소프트웨어.
+- 🔋 **데일리에너지**: 고성능 코딩, 미학적 정교화, 그리고 시스템 안정화.
 - 📍 **위치**: 대한민국 수원.
 - 📖 **말씀**: *마태복음 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=flat-square&logo=icloud&logoColor=white)
+
+---
+
+### 🎨 디자인 미학: *프루티거 에어로 & 글래스모피즘*
+저의 작업은 2000년대 중반의 낙관적인 디지털 시대를 향한 경의이자, 현대적 글래스모피즘의 매끄럽고 투명한 논리의 결합입니다. 저는 소프트웨어가 완벽하게 작동해야 할 뿐만 아니라, **촉각적이고 품격 있는 시각적 경험**을 제공해야 한다고 믿습니다.
+
 
 ---
 
@@ -111,6 +122,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hslcrb&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=white&bg_color=00000000" alt="Hslcrb's Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=white&bg_color=00000000" alt="Top Languages" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&theme=transparent&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🐍 기여 활동 (Activity)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hslcrb/hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

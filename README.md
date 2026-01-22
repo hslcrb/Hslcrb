@@ -10,8 +10,12 @@
   <p align="center">
     <a href="https://github.com/hslcrb/Hslcrb/blob/main/README_ko.md">🇰🇷 한국어 버전</a> | 
     <a href="https://www.rheehose.com">🌐 Portfolio</a> | 
-    <a href="mailto:rheehose@rheehose.com">📧 Contact</a>
+    <a href="mailto:rheehose@rheehose.com">📧 Contact</a> |
+    <a href="https://twitter.com/rheehose">🐦 Twitter</a> |
+    <a href="https://linkedin.com/in/rheehose">🔗 LinkedIn</a>
   </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=hslcrb&theme=darkhub&no-bg=true&no-frame=true&column=7" alt="Github Trophies" />
 </div>
 
 ---
@@ -22,8 +26,15 @@ I am **Rheehose**, the founder and lead developer at **Rhee Creative**. My philo
 
 - 🔭 **Focus**: System optimization, Modern UI/UX, and Developer Experience tools.
 - 🏛️ **Philosophy**: "Pure. Potent. Permanent." — crafting software that lasts and feels premium.
-- 📍 **Location**: Suwon, South Korea.
+- � **Daily Routine**: High-performance coding, aesthetic refining, and system stabilization.
+- �📍 **Location**: Suwon, South Korea.
 - 📖 **Verse**: *Matthew 10:34*. ![Christianity](https://img.shields.io/badge/Faith-Christian-blue?style=flat-square&logo=icloud&logoColor=white)
+
+---
+
+### 🎨 Design Aesthetic: *Frutiger Aero & Glassmorphism*
+My work is a tribute to the optimistic digital era of the mid-2000s, blended with the sleek, transparent logic of modern glassmorphism. I believe software should not only work perfectly but also provide a **tactile, premium visual experience**.
+
 
 ---
 
@@ -111,6 +122,17 @@ I am **Rheehose**, the founder and lead developer at **Rhee Creative**. My philo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hslcrb&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=white&bg_color=00000000" alt="Hslcrb's Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=white&bg_color=00000000" alt="Top Languages" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&theme=transparent&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hslcrb/hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
