@@ -1,5 +1,10 @@
 # 💎 R H E E H O S E
 
+> [!IMPORTANT]
+> **Notice**: This profile is currently under active development. Some sections may be incomplete or inconsistent.
+> **공지**: 본 프로필은 현재 편집 중이며 내용이 불완전할 수 있습니다.
+> *Last Updated: January 22, 2026 (KST) / 최종 업데이트: 2026년 1월 22일 (KST)*
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/suwon_korea.png" alt="Rhee Creative Suwon Header" width="60%">
   

@@ -1,5 +1,8 @@
 # Security Policy
 
+> [!NOTE]
+> Review in progress. (Last Update: 2026-01-22 KST)
+
 ## 🛡️ Supported Versions
 
 We actively maintain the latest major versions of our key projects to ensure the highest safety standards.

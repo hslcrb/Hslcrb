@@ -1,5 +1,8 @@
 # Contributing to Rhee Creative Projects
 
+> [!CAUTION]
+> Under construction. Guidelines are subject to change. (2026-01-22 KST)
+
 Welcome! We are excited that you are interested in contributing to our projects. Rhee Creative is dedicated to building high-quality, aesthetically pleasing software.
 
 ## 🚀 How to Contribute

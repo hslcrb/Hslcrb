@@ -1,5 +1,9 @@
 # 📚 Ecosystem Documentation
 
+> [!WARNING]
+> This document is currently being updated. Info may be incomplete.
+> (Last Update: 2026-01-22 KST)
+
 Welcome to the technical directory of **Rhee Creative**. This document provides an overview of the various projects and libraries maintained by **Rheehose**.
 
 ## 🏗️ System Architecture Philosophy
