@@ -15,7 +15,7 @@
     <a href="https://linkedin.com/in/rheehose">🔗 링크드인</a>
   </p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=hslcrb&theme=darkhub&no-bg=true&no-frame=true&column=7" alt="Github Trophies" />
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=hslcrb&theme=darkhub&no-bg=true&no-frame=true&column=7)
 </div>
 
 ---
@@ -132,7 +132,7 @@
 
 ### 🐍 기여 활동 (Activity)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
