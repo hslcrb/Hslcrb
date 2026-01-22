@@ -11,7 +11,7 @@
     <a href="https://github.com/hslcrb/Hslcrb/blob/main/README_ko.md">🇰🇷 한국어 버전</a> | 
     <a href="https://www.rheehose.com">🌐 Portfolio</a> | 
     <a href="mailto:rheehose@rheehose.com">📧 Contact</a> |
-    <a href="https://twitter.com/rheehose">🐦 Twitter</a> |
+    <a href="https://x.com/rheehose">𝕏 X (Twitter)</a> |
     <a href="https://linkedin.com/in/rheehose">🔗 LinkedIn</a>
   </p>
 
