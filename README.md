@@ -25,13 +25,10 @@
 
 ---
 
-### 🌌 Build. Optimize. Refine.
-Founder of **Rhee Creative**. Protestant. Dedicated to high-performance systems and minimalist aesthetics.
-
----
-
-### 🇰🇷 단순함의 미학
-**Rhee Creative** 창립자. 개신교. 고성능 시스템과 미니멀리즘 디자인에 전념합니다.
+<p align="center">
+  <b>Copyright & Popular Repositories are below.</b><br/>
+  저작권 정보와 인기 리포지토리는 하단을 참조해 주세요.
+</p>
 
 ---
 
