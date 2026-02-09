@@ -47,10 +47,8 @@ jobs:
           # Custom Style to match Cyan theme
           config_twemoji: yes
           
+          # Use a built-in theme that looks good
+          config_theme: dark
+          
           # Output configuration
           filename: statics/metrics.svg
-          optimize: svg
-          
-          # Note: Transparent background is handled via CSS in metrics
-          # We will use the 'classic' template with dark/light auto detection or forced theme
-          config_theme: transparent
