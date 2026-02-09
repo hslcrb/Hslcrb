@@ -1,33 +1,16 @@
 # Security Policy
 
-> [!NOTE]
-> Review in progress. (Last Update: 2026-01-22 KST)
-
-## 🛡️ Supported Versions
-
-We actively maintain the latest major versions of our key projects to ensure the highest safety standards.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| v1.0.x  | :white_check_mark: |
-| < v1.0  | :x:                |
-
----
-
 ## 🚨 Reporting a Vulnerability
+Found a security issue? Please report it responsibly.
 
-If you discover a security vulnerability, please follow our **Responsible Disclosure** process:
-
-1.  **Email Disclosure**: Send a detailed report to [rheehose@rheehose.com](mailto:rheehose@rheehose.com).
-2.  **Acknowledgment**: We will acknowledge receipt of your report within **24 hours**.
-3.  **Assessment**: A preliminary assessment will be provided within **72 hours**.
-4.  **Fix & Release**: A fix will be developed and released with credit (if desired) to the reporter.
-
-**Please do not disclose the vulnerability publicly until it has been officially addressed.** 
-
-## 🗝️ Secure Channel
-
-For highly sensitive vulnerabilities, you may request our PGP public key via email before sending the full report.
+1. **Email**: [rheehose@rheehose.com](mailto:rheehose@rheehose.com)
+2. **Response**: We typically acknowledge within **24 hours**.
+3. **Disclosure**: Please do not disclose publicly until a fix is released.
 
 ---
-© 2026 Rhee Creative Security Team.
+
+## 🇰🇷 보안 정책 (Korean)
+취약점을 발견하시면 [이메일](mailto:rheehose@rheehose.com)로 제보해 주세요. 24시간 이내에 확인 후 조치하겠습니다. 해결 전까지 공개적인 게시를 자제해 주시길 부탁드립니다.
+
+---
+© 2026 Rhee Creative Security.
