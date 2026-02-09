@@ -10,13 +10,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=00D2FF&width=400&lines=Pure.+Potent.+Permanent.;MATTHEW+10:34.)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/rheehoselogo.png" alt="Favicon" width="16" height="16">
-    <a href="https://www.rheehose.com">Website</a> • 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x_white.svg">
-      <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x.svg" alt="X" width="16" height="16">
-    </picture>
-    <a href="https://x.com/rheehose">X</a> • 
+    <a href="https://www.rheehose.com">
+      <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/rheehoselogo.png" alt="Favicon" width="16" height="16" align="absmiddle"> Website
+    </a> • 
+    <a href="https://x.com/rheehose">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x_white.svg">
+        <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x.svg" alt="X" width="16" height="16" align="absmiddle">
+      </picture> X
+    </a> • 
     <a href="https://linkedin.com/in/rheehose">LinkedIn</a>
   </p>
 
