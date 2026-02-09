@@ -18,8 +18,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x_white.svg">
         <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/x.svg" alt="X" width="16" height="16" align="absmiddle">
       </picture> X
-    </a> • 
-    <a href="https://linkedin.com/in/rheehose">LinkedIn</a>
+    </a>
   </p>
 
 </div>
