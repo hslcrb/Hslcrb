@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 <p align="center">
   <b>Popular Repositories are below.</b><br/>
   인기 리포지토리는 하단을 참조해 주세요.
@@ -33,7 +31,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake" width="80%" />
+  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake" width="80%">
 </div>
 
 <p align="center">
