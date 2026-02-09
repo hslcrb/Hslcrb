@@ -10,7 +10,11 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=00D2FF&width=400&lines=Pure.+Potent.+Permanent.;MATTHEW+10:34.)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hslcrb&show_icons=true&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=888&bg_color=0,00000000" alt="Stats" width="400">
+    <img src="https://github-profile-trophy.vercel.app/?username=hslcrb&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=888&no-bg=true&no-frame=true&margin-w=15&column=4" alt="Trophies" width="100%">
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&layout=compact&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=888&bg_color=0,00000000&hide_border=true" alt="Top Languages" width="350">
   </p>
 
   <p align="center">
