@@ -26,8 +26,8 @@
 ---
 
 <p align="center">
-  <b>Copyright & Popular Repositories are below.</b><br/>
-  저작권 정보와 인기 리포지토리는 하단을 참조해 주세요.
+  <b>Popular Repositories are below.</b><br/>
+  인기 리포지토리는 하단을 참조해 주세요.
 </p>
 
 ---
@@ -37,5 +37,5 @@
 </div>
 
 <p align="center">
-  <b>© 2026 Rhee Creative</b>
+  <b>Rheehose (Rhee Creative) 2008-2026</b>
 </p>
