@@ -14,8 +14,7 @@
   </p>
 
   <p align="center">
-    <b>Popular Repositories are below.</b><br/>
-    인기 리포지토리는 하단을 참조해 주세요.
+    <b>[프로젝트S 소개 & 사이트맵](https://www.rheehose.com)</b>
   </p>
 
   <p align="center">
