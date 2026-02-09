@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/output/github-contribution-grid-snake.svg" alt="Snake" width="80%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hslcrb&theme=github_dark" alt="Stats" width="100%">
 </div>
 
 <p align="center">
