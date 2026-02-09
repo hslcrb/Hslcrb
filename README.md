@@ -10,6 +10,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=00D2FF&width=400&lines=Pure.+Potent.+Permanent.;MATTHEW+10:34.)](https://git.io/typing-svg)
 
   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hslcrb&show_icons=true&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=888&bg_color=0,00000000" alt="Stats" width="400">
+  </p>
+
+  <p align="center">
+    <b>Popular Repositories are below.</b><br/>
+    인기 리포지토리는 하단을 참조해 주세요.
+  </p>
+
+  <p align="center">
     <a href="https://www.rheehose.com">
       <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/rheehoselogo.png" alt="Favicon" width="16" height="16" align="absmiddle"> Website
     </a> • 
@@ -21,17 +30,6 @@
     </a>
   </p>
 
-</div>
-
-<p align="center">
-  <b>Popular Repositories are below.</b><br/>
-  인기 리포지토리는 하단을 참조해 주세요.
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hslcrb&theme=github_dark" alt="Stats" width="100%">
 </div>
 
 <p align="center">
