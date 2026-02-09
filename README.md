@@ -10,7 +10,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=00D2FF&width=400&lines=Pure.+Potent.+Permanent.;MATTHEW+10:34.)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://www.rheehose.com">Website</a> • 
+    <img src="https://raw.githubusercontent.com/hslcrb/Hslcrb/main/statics/logos/rheehoselogo.ico" width="16" height="16"> <a href="https://www.rheehose.com">Website</a> • 
     <a href="https://x.com/rheehose">X</a> • 
     <a href="https://linkedin.com/in/rheehose">LinkedIn</a>
   </p>
