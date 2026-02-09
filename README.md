@@ -12,6 +12,10 @@
   <p align="center">
     <img src="statics/logos/rheehoselogo.png" alt="Favicon" width="16" height="16">
     <a href="https://www.rheehose.com">Website</a> • 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="statics/logos/x_white.svg">
+      <img src="statics/logos/x.svg" alt="X" width="16" height="16">
+    </picture>
     <a href="https://x.com/rheehose">X</a> • 
     <a href="https://linkedin.com/in/rheehose">LinkedIn</a>
   </p>
