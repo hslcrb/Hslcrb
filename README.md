@@ -12,7 +12,7 @@
 
 
   <p align="center">
-    <b>[프로젝트S 소개 & 사이트맵](https://www.rheehose.com)</b>
+    <a href="https://www.rheehose.com"><b>프로젝트S 소개 & 사이트맵</b></a>
   </p>
 
   <p align="center">
