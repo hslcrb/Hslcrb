@@ -1,9 +1,11 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="statics/logos/rheehose_white.svg">
-    <img src="statics/logos/rheehose.svg" alt="Rheehose Logo" width="60%">
-  </picture>
+  <a href="https://www.rheehose.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="statics/logos/rheehose_white.svg">
+      <img src="statics/logos/rheehose.svg" alt="Rheehose Logo" width="60%">
+    </picture>
+  </a>
 
   <br/>
   
