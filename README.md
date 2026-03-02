@@ -9,7 +9,7 @@
 
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=400&lines=Pure.+Potent.+Permanent.;MATTHEW+10:34.)](https://git.io/typing-svg)
+  <img src="statics/banner/war.svg" alt="War Banner" width="80%">
 
 
 
