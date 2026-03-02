@@ -9,7 +9,7 @@
 
   <br/>
   
-  <img src="statics/banner/war.svg" alt="War Banner" width="80%">
+  <img src="statics/banner/war.svg" alt="War Banner" width="50%">
 
 
 
