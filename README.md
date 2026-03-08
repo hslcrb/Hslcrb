@@ -1,15 +1,6 @@
 <div align="center">
 
-  <a href="https://www.rheehose.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="statics/logos/rheehose_white.svg">
-      <img src="statics/logos/rheehose.svg" alt="Rheehose Logo" width="60%">
-    </picture>
-  </a>
-
-  <br/>
-  
-  <img src="statics/banner/war.svg" alt="War Banner" width="50%">
+  <img src="statics/banner/aitop100org-01.svg" alt="AITOP100 Banner" width="100%">
 
 
 
