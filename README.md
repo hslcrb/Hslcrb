@@ -20,17 +20,5 @@
 
 </div>
 
-<!-- 유튜브 iframe 플레이어 단독 코드 (웹 접근성 title="헌법 제1조" 반영) -->
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe width="560" 
-          height="315" 
-          src="https://youtube.com" 
-          title="헌법 제1조" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          referrerpolicy="strict-origin-when-cross-origin" 
-          allowfullscreen 
-          style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
-  </iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y9YF097YqU?si=BCScX7m3UTXLj_K3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
