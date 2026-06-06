@@ -20,11 +20,12 @@
 
 </div>
 
-<p align="center">
-  <a href="https://youtu.be">
-    <h1>헌법 제1조</h1>
+<h1>
+  <a href="https://youtu.be" style="text-decoration: none;">
+    <p align="center">헌법 제1조</p>
   </a>
-</p>
+</h1>
+
 
 
 
