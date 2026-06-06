@@ -20,8 +20,10 @@
 
 </div>
 
-<p align="center">
-  <a href="https://youtu.be">헌법 제1조</a>
+<p align="center" style="font-size: 3.8rem; font-weight: 950; letter-spacing: -1px;">
+  <a href="https://youtu.be" style="text-decoration: none; color: inherit;">
+    헌법 제1조
+  </a>
 </p>
 
 
