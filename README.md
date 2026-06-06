@@ -20,6 +20,12 @@
 
 </div>
 
-[![헌법 제1조](https://youtube.com)](https://youtu.be/9y9YF097YqU?si=af-97COWG12iWBM8)
+<p align="center">
+  <a href="https://youtu.be/9y9YF097YqU?si=af-97COWG12iWBM8" title="헌법 제1조" aria-label="헌법 제1조" style="text-decoration: none;">
+    <h1><b>대한민국은 민주공화국이다</b></h1>
+    <h2><b>대한민국의 모든 권력은 국민으로부터 나온다</b></h2>
+  </a>
+</p>
+
 
 
