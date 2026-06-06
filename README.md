@@ -2,15 +2,15 @@
   
 <!-- 최고 굵기 및 가운데 정렬 문장 추가 (br 줄바꿈 적용, 상단 문구 초강조, 링크 밑줄 제거) -->
 <h1 style="text-align: center; margin-bottom: 20px; line-height: 1.5;">
-  <a href="https://youtu.be" 
+<a href="https://youtu.be" 
      title="헌법 제1조" 
      aria-label="헌법 제1조" 
      style="text-decoration: none; color: inherit; font-weight: 900; font-size: 2.3rem;">
-    <!-- 상단: 대한민국은 민주공화국이다 (더 크고 더더 굵게 강조) -->
+    <!-- 상단: 대한민국은 민주공화국이다 (더 크고 더 굵게 강조) -->
     <span style="font-weight: 950; font-size: 3.8rem; letter-spacing: -1px;">대한민국은 민주공화국이다</span><br>
     <!-- 하단: 대한민국의 모든 권력은 국민으로부터 나온다 -->
     대한민국의 모든 권력은 국민으로부터 나온다
-  </a>
+</a>
 </h1>
 
 <a href="https://www.rheehose.com">
