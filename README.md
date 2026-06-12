@@ -2,7 +2,7 @@
   
 <!-- 최고 굵기 및 가운데 정렬 문장 추가 (br 줄바꿈 적용, 상단 문구 초강조, 링크 밑줄 제거) -->
 <h1 style="text-align: center; margin-bottom: 20px; line-height: 1.5;">
-<a href="https://youtu.be" 
+<a href="https://www.bbc.com/korean/articles/cp3xn4zzn31o" 
      title="헌법 제1조" 
      aria-label="헌법 제1조" 
      style="text-decoration: none; color: inherit; font-weight: 900; font-size: 2.3rem;">
