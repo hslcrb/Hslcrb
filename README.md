@@ -7,7 +7,7 @@
      aria-label="헌법 제1조" 
      style="text-decoration: none; color: inherit; font-weight: 900; font-size: 2.3rem;">
     <!-- 상단: 대한민국은 민주공화국이다 (더 크고 더 굵게 강조) -->
-    <span style="font-weight: 950; font-size: 3.8rem; letter-spacing: -1px;">부정선거 진상규명</span><br>
+    <span style="font-weight: 950; font-size: 3.8rem; letter-spacing: -1px;">대한민국은 민주공화국이다</span><br>
     <!-- 하단: 대한민국의 모든 권력은 국민으로부터 나온다 -->
     대한민국의 주권은 국민에게 있고 모든 권력은 국민으로부터 나온다
 </a>
