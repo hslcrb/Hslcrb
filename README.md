@@ -6,3 +6,14 @@
 <img width="2085" height="340" alt="banner자산 1" src="https://github.com/user-attachments/assets/2ae1367b-48ed-407d-b61f-d59d7eac3294" />
 <img width="1042" height="417" alt="대한민국 제헌절 78주년-01" src="https://github.com/user-attachments/assets/fe5095a8-0055-458f-8e6a-382c04622a43" />
 <img width="1042" height="417" alt="일신우일신 가화만사성-01" src="https://github.com/user-attachments/assets/09714cf9-9901-4296-b8d6-ea49548ae5e4" />
+
+
+
+
+
+
+<img width="938" height="938" alt="맥추감사프로필로고" src="https://github.com/user-attachments/assets/57898833-e30e-4e8e-9d79-592e91c0e3c8" />
+
+
+<img width="3508" height="2481" alt="2만커밋_1억토큰" src="https://github.com/user-attachments/assets/5676e418-36be-47b5-a880-ec67f4231d7b" />
+
