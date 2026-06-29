@@ -1,4 +1,5 @@
 <img width="3508" height="2481" alt="2만커밋_1억토큰" src="https://github.com/user-attachments/assets/5676e418-36be-47b5-a880-ec67f4231d7b" />
+<img width="7084" height="2917" alt="딥블루_그라데이션_깃허브배너" src="https://github.com/user-attachments/assets/60272ca1-c469-450f-9631-ab87304c41fd" />
 
 
 
