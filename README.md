@@ -1,1 +1,9 @@
-<img width="7084" height="2917" alt="이제부터-진짜-2026_배포용" src="https://github.com/user-attachments/assets/8ccbecd8-ac41-40c2-b087-2c3b510bd4bd" />
+<img src="statics/banner/main-hero.webp" width="100%" />
+
+<img src="statics/banner/insta.webp" width="100%" />
+
+<img src="statics/banner/rheehose.webp" width="100%" />
+
+<img src="statics/banner/hf.webp" width="100%" />
+
+<img src="statics/banner/lk.webp" width="64.89%" /><img src="statics/banner/tk.webp" width="35.11%" />
