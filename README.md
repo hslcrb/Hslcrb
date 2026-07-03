@@ -15,3 +15,7 @@
 <p align="center">
   <img src="statics/banner/navy-goals.webp" width="100%" />
 </p>
+
+<p align="center">
+  <img src="statics/banner/detail.webp" width="100%" />
+</p>
