@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="statics/banner/3goals.webp" width="100%" />
+</p>
+
+<p align="center">
   <img src="statics/banner/navy-goals.webp" width="100%" />
 </p>
 
