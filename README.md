@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- <a href="https://rheehose.com" target="_blank"> -->
-  <img src="statics/banner/정전73주년-01.svg" width="50%" />
+  <img src="statics/banner/정전73주년-01.svg" width="100%" />
   <!-- </a> -->
 </p>
 
