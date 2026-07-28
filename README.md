@@ -40,6 +40,13 @@
   <!-- </a> -->
 </p>
 
+<p align="center">
+  <!-- <a href="https://rheehose.com" target="_blank"> -->
+  <img src="statics/banner/커리어의 새 지평을 국민께 새로운 성장 동력을 조국에게-01.svg" width="100%" />
+  <!-- </a> -->
+</p>
+
+
 
 
 
