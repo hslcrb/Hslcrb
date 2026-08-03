@@ -10,6 +10,24 @@
   <!-- </a> -->
 </p>
 
+<p align="center">
+  <!-- <a href="https://rheehose.com" target="_blank"> -->
+  <img src="statics/banner/결의를 담은 선언-01.svg" width="100%" />
+  <!-- </a> -->
+</p>
+
+<p align="center">
+  <!-- <a href="https://rheehose.com" target="_blank"> -->
+  <img src="statics/banner/결의를 담은 선언-02.svg" width="100%" />
+  <!-- </a> -->
+</p>
+
+<p align="center">
+  <!-- <a href="https://rheehose.com" target="_blank"> -->
+  <img src="statics/banner/결의를 담은 선언-03.svg" width="100%" />
+  <!-- </a> -->
+</p>
+
 
 
 
