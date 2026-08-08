@@ -1,5 +1,11 @@
 <p align="center">
   <!-- <a href="https://rheehose.com" target="_blank"> -->
+  <img src="statics/banner/우리가 사랑했던 여름은 어디갔는가-01.svg" width="100%" />
+  <!-- </a> -->
+</p>
+
+<p align="center">
+  <!-- <a href="https://rheehose.com" target="_blank"> -->
   <img src="statics/banner/kairos7banner-01.svg" width="100%" />
   <!-- </a> -->
 </p>
