@@ -1,1 +1,3 @@
-<img width="7741" height="2382" alt="미래 지평의 새날은 밝아온다!" src="https://github.com/user-attachments/assets/083f179d-877e-4228-8214-08d15aa9a131" />
+# **종교통합 반대한다!**
+<img width="3871" height="1191" alt="주님의 진리는 진군한다" src="https://github.com/user-attachments/assets/41942064-9d36-41cf-80d6-252678598993" />
+### **WCC 참여하는 2026 세계에큐메니칼평화대회**
