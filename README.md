@@ -1,1 +1,1 @@
-<img width="1266" height="380" alt="Frame 1" src="https://github.com/user-attachments/assets/cab1059e-11fd-49d2-9acf-cbe8c416a083" />
+![주님의 뜻이 아니면 그 어떤 **영화의 길**도 ***돌아오겠습니다***. ***성도 이호세***](statics/banner/%EC%A3%BC%EB%8B%98%EA%BB%98%EC%84%9C%20%EA%B8%B0%EC%81%98%EC%8B%9C%EC%A7%80%20%EC%95%84%EB%8B%88%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%82%AC%EB%8A%94%20%EA%B2%BD%EC%82%AC%EA%B0%80%20%EC%95%84%EB%8B%88%EC%98%A4%20%ED%9D%89%EC%A1%B0%EC%98%B5%EB%8B%88%EB%8B%A4.png)
