@@ -1,1 +1,1 @@
-![주님의 뜻이 아니면 그 어떤 **영화의 길**도 ***돌아오겠습니다***. ***성도 이호세***](statics/banner/주님께서%20기쁘시지%20아니하는%20경사는%20경사가%20아니오%20흉조이옵니다.png)
+<img width="1500" height="500" alt="happy-christmas-_mybirth1617-andhappynewyear" src="https://github.com/user-attachments/assets/4c592586-7da7-4686-b9ed-6d04a7b7ec53" />
