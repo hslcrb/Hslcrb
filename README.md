@@ -1,2 +1,1 @@
-[!["한손에 복음들고, 한손에 사랑들고"](https://github.com/user-attachments/assets/82ec175c-b1fd-4010-a06b-fe304f3195ec)](https://youtu.be/4t0979ZbIFM?si=dL1AFvBZ_uN0oZ7U)
-
+![Happy Christmas - ★](statics/banner/메리%20크리스마스%20-%202026년%209월%2017일%20목요일.svg)
