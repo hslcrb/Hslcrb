@@ -1,5 +1,6 @@
 <h1 align="center" style="bold">
   영적전쟁에 항상깨어있으라 / 육너머의 영을보라
+  <br>
   HALLELUJAH PRAISE THE LORD SET ME FREE
 </h1>
 
