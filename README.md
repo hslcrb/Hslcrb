@@ -1,4 +1,5 @@
-<img width="4000" height="834" alt="JESUS IS KING-02" src="https://github.com/user-attachments/assets/84e46599-7a44-442e-87dd-ffad06961178" />
+<img width="4000" height="1209" alt="emblem-banner-01" src="https://github.com/user-attachments/assets/7e7b1ccd-5c60-41cb-a800-f64e0ada3c2f" />
+
 
 
 
