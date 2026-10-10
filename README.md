@@ -1,3 +1,1 @@
-"찬양함에 기쁨을 감사함에 평안을"
-
-<img width="800" alt="Romans 8:39 - Jesus loves you more than the universe" src="statics/banner/Romans%208-39%20_%20Jesus%20loves%20you%20more%20than%20the%20universe(many_colors)-04.svg" />
+<img width="4000" height="834" alt="개발과업관철-01" src="https://github.com/user-attachments/assets/e756a145-3a73-490c-8b49-d98399f3803b" />
