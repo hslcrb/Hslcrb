@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>새출발 11월!</h1>
-  <h1>New start November!</h1>
+  <h1>하나님께서 당신을 **정말로** 사랑하십니다</h1>
+  <h1>높음이나 깊음이나 다른 아무 피조물이라도<br>우리를 우리 주 그리스도 예수 안에 있는<br> 하나님의 사랑에서 끊을 수 없으리라</h1>
 </div>
 
 <img width="4001" height="1209" alt="화해, 용서, 시작" src="https://github.com/user-attachments/assets/162ff510-e0dc-4fe3-b1e4-93244c7505d1" />
