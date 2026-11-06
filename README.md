@@ -1,3 +1,7 @@
+<img width="4000" height="1801" alt="최강삼성의 승리를위하여!-qaed-02" src="https://github.com/user-attachments/assets/b86c58c3-27b9-4840-a05e-16ed94871526" />
+
+
+
 <div align="center">
   <h1>하나님께서 당신을 <b>정말로</b> 사랑하십니다</h1>
   <h1>높음이나 깊음이나 다른 아무 피조물이라도<br>우리를 우리 주 그리스도 예수 안에 있는<br> 하나님의 사랑에서 끊을 수 없으리라</h1>
