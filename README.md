@@ -19,3 +19,7 @@
 <div>
   <h1 align="center">삼성의 승리를 조기 축하합니다!</h1>
 </div>
+
+<div>
+  <h1 align="center">《국민이 안전한 나라 - 따뜻한 공동체를 위한 기술》</h1>
+</div>
