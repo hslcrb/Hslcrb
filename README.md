@@ -17,7 +17,7 @@
 
 
 <div>
-  <h1 align="center">삼성의 승리를 조기 축하합니다!</h1>
+  <h1 align="center">삼성의 한국시리즈 우승을 축하합니다!</h1>
 </div>
 
 <div>
