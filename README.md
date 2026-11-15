@@ -27,5 +27,5 @@
   <h1 align="center">《삶을 사랑하고 나를 사랑하고 친구를 사랑하며 창조 주를 사랑하자》</h1>
 </div>
 <div>
-  <h1 align="center">《민주주의, 자유, 존중》</h1>
+  <h1 align="center">《민주주의, 자유 - 사랑과 존중》</h1>
 </div>
