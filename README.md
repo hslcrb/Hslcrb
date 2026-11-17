@@ -21,7 +21,7 @@
 </div>
 
 <div>
-  <h1 align="center">《하나를 보더라도 아홉을 보는 삶의 태도》</h1>
+  <h1 align="center">하나도 보고 아홉도 보자</h1>
 </div>
 <div>
   <h1 align="center">《삶을 사랑하고 나를 사랑하고 친구를 사랑하며 창조 주를 사랑하자》</h1>
