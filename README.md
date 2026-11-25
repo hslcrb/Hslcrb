@@ -6,6 +6,8 @@
 
 [포트폴리오](https://www.rheehose.com/) · [rhee.life](https://rhee.life) · [기록](https://www.rheehose.com/blog) · [저장소 전체](https://github.com/hslcrb?tab=repositories) · [연락](https://www.rheehose.com/contact)
 
+<img alt="GitHub 팔로워" src="https://img.shields.io/github/followers/hslcrb?style=flat-square&amp;label=followers&amp;logo=github&amp;color=555555"> <img alt="GitHub 시작" src="https://img.shields.io/badge/since-2024.07-555555?style=flat-square&amp;logo=github&amp;logoColor=white"> <img alt="Rhee Creative" src="https://img.shields.io/badge/Rhee%20Creative-Suwon%2C%20Korea-555555?style=flat-square&amp;logo=googlemaps&amp;logoColor=white">
+
 </div>
 
 ## 소개
@@ -15,6 +17,20 @@
 무엇을 만들든 README에 먼저 적는 것이 있습니다. 무엇이 실제로 동작하는지, 어디까지 확인했는지, 무엇이 아직 안 되는지입니다. 화면만 흉내 낸 목업을 완성이라고 부르지 않습니다.
 
 요즘은 브라우저 안에서 도는 IDE, 웹 아카이버, 도시 캐릭터 3D 뷰어를 이어서 다듬고 있습니다.
+
+## 기술 스택
+
+**언어**
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white"> <img alt="Rust" src="https://img.shields.io/badge/Rust-30363D?style=flat-square&amp;logo=rust&amp;logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white">
+
+**프론트엔드**
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-30363D?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white"> <img alt="Three.js" src="https://img.shields.io/badge/Three.js-30363D?style=flat-square&amp;logo=threedotjs&amp;logoColor=white"> <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white"> <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&amp;logo=electron&amp;logoColor=white">
+
+**백엔드와 데이터**
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white"> <img alt="MCP" src="https://img.shields.io/badge/MCP-555555?style=flat-square&amp;logoColor=white"> <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&amp;logo=webassembly&amp;logoColor=white">
+
+**인프라와 도구**
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-30363D?style=flat-square&amp;logo=vercel&amp;logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white"> <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&amp;logo=blender&amp;logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
 
 ## 대표 프로젝트
 
@@ -68,7 +84,7 @@ TTF, OTF, WOFF, WOFF2를 브라우저 안에서 서로 바꿉니다. 파일을 �
 | 브라우저 시스템 | 컴파일러, JVM, JDBC, 서블릿, WARC, 폰트 윤곽처럼 원래 브라우저 밖에서 돌던 것을 안으로 옮깁니다. | PlayTheClipse, Wayglass |
 | 3D | Blender 4.2로 모델링하고 GLB로 최적화해 Three.js와 Cloudflare Pages로 배포합니다. | 도시 캐릭터 |
 | AI 에이전트 | MCP 서버, 읽기 전용 도구 세트, 에이전트가 파싱하기 좋은 CLI를 직접 만듭니다. | HANBOM DATA, Wayglass, JSONote |
-| 보안 도구 | 암복호화 CLI, 시험장 전파 모니터링 앱, 침투 테스트 프레임워크 한국어화처럼 도구 수준의 작업을 합니다. | pycryptor-cli, KoriyoSCAN |
+| 보안 도구 | 암복호화 CLI, 침투 테스트 프레임워크 한국어화처럼 도구 수준의 작업을 합니다. | pycryptor-cli |
 
 ## 그 밖의 작업
 
@@ -79,10 +95,31 @@ TTF, OTF, WOFF, WOFF2를 브라우저 안에서 서로 바꿉니다. 파일을 �
 - **[thedecoder](https://github.com/hslcrb/thedecoder)** · 어셈블리 디스어셈블러 IDE. 제어 흐름을 그림으로 보여줍니다. Apache-2.0
 - **[fontchanger](https://github.com/hslcrb/fontchanger)** · 안드로이드 시스템 글꼴을 교체하는 앱. Magisk, KernelSU, Samsung One UI FlipFont를 지원합니다. Apache-2.0
 - **[pycryptor-cli](https://github.com/hslcrb/pycryptor-cli)** · AES-256 암복호화 CLI. Termux에서도 돌아갑니다. MIT
-- **[KoriyoSCAN](https://github.com/hslcrb/exam-rf-guard_hslcrb)** · 시험 감독관용 안드로이드 앱. 빈 교실의 와이파이와 블루투스 전파를 기록해 두고, 시험 중 새로 잡히는 전파를 표시합니다. 전파를 차단하거나 부정행위를 판정하지는 않습니다.
 - **[LabelStudio](https://github.com/hslcrb/LabelStudio)** · FIG 호환 디자인 편집기. `.fig` 압축 파일과 Figma Cloud 문서를 불러오고, 로컬 미디어 보정과 코드 핸드오프까지 한 작업공간에 묶었습니다. TypeScript. 소스 공개
 - **[reisian](https://github.com/hslcrb/reisian)** · 코드 없이 화면을 조정해 사이트로 내보내는 로컬 우선 비주얼 스튜디오. Electron, React, TypeScript. MIT
 - **[must-have-love-ascii](https://github.com/hslcrb/must-have-love-ascii)** · 한국어 가사를 조선굴림체로 래스터화해 3D 아스키 아트 뮤직비디오로 만든 작품. MIT
+
+## GitHub 활동
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hslcrb&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;theme=github_dark">
+    <img alt="GitHub 통계: 받은 별, 최근 1년 커밋, PR, 이슈" src="https://github-readme-stats.vercel.app/api?username=hslcrb&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;theme=default" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;theme=github_dark&amp;langs_count=8">
+    <img alt="주로 쓰는 언어 비율" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;theme=default&amp;langs_count=8" height="165">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;theme=github-dark-blue">
+    <img alt="연속 커밋 기록: 총 기여 수, 현재 연속일, 최장 연속일" src="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;theme=github-light" height="165">
+  </picture>
+</p>
+
+숫자는 GitHub가 집계한 값입니다.
 
 ## 만드는 방식
 
