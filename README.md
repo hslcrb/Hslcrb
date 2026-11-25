@@ -131,3 +131,7 @@ I'm Rheehose (Lee Hose). I design interfaces in Figma and build tools that run e
 Every project README states what works, what was verified, and what does not work yet, before it claims to be finished.
 
 <sub>© 2026 Rhee Creative</sub>
+
+# #NO_WAR
+# #YES_PEACE
+# #ONLY_LOVE
