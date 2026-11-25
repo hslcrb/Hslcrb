@@ -103,19 +103,15 @@ TTF, OTF, WOFF, WOFF2를 브라우저 안에서 서로 바꿉니다. 파일을 �
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hslcrb&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;theme=github_dark">
-    <img alt="GitHub 통계: 받은 별, 최근 1년 커밋, PR, 이슈" src="https://github-readme-stats.vercel.app/api?username=hslcrb&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;theme=default" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;theme=github_dark&amp;langs_count=8">
-    <img alt="주로 쓰는 언어 비율" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslcrb&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;theme=default&amp;langs_count=8" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;border=30363d&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakNum=ffffff&amp;currStreakLabel=58a6ff&amp;sideNums=58a6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e">
+    <img alt="연속 커밋 기록: 총 기여 수와 현재 연속일, 최장 연속일" src="https://streak-stats.demolab.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;border=d0d7de&amp;stroke=0969da&amp;ring=0969da&amp;fire=cf222e&amp;currStreakNum=1f2328&amp;currStreakLabel=0969da&amp;sideNums=0969da&amp;sideLabels=57606a&amp;dates=6e7781" height="165">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;theme=github-dark-blue">
-    <img alt="연속 커밋 기록: 총 기여 수, 현재 연속일, 최장 연속일" src="https://github-readme-streak-stats.herokuapp.com/?user=hslcrb&amp;hide_border=true&amp;background=00000000&amp;theme=github-light" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hslcrb&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true">
+    <img alt="최근 1년의 일별 기여 그래프" src="https://github-readme-activity-graph.vercel.app/graph?username=hslcrb&amp;bg_color=00000000&amp;color=57606a&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=54aeff&amp;hide_border=true">
   </picture>
 </p>
 
