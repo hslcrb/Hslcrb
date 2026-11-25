@@ -2,7 +2,7 @@
 
 # 이호세 · Rheehose
 
-**설치 없이, 브라우저 안에서 끝까지 동작하는 도구를 만듭니다.**
+**가능성을 구현하는 Creator**
 
 [포트폴리오](https://www.rheehose.com/) · [rhee.life](https://rhee.life) · [기록](https://www.rheehose.com/blog) · [저장소 전체](https://github.com/hslcrb?tab=repositories) · [연락](https://www.rheehose.com/contact)
 
