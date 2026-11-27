@@ -110,12 +110,12 @@ TTF, OTF, WOFF, WOFF2를 브라우저 안에서 서로 바꿉니다. 파일을 �
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hslcrb&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true">
-    <img alt="최근 1년의 일별 기여 그래프" src="https://github-readme-activity-graph.vercel.app/graph?username=hslcrb&amp;bg_color=00000000&amp;color=57606a&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=54aeff&amp;hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=hslcrb&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true">
+    <img alt="최근 31일의 일별 기여 그래프" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=hslcrb&amp;bg_color=00000000&amp;color=57606a&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=54aeff&amp;hide_border=true">
   </picture>
 </p>
 
-숫자는 GitHub가 집계한 값입니다.
+숫자는 GitHub가 집계한 값입니다. [GitHub 공식 기여 기록 보기](https://github.com/hslcrb#contributions)
 
 ## 만드는 방식
 
