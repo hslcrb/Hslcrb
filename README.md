@@ -117,6 +117,8 @@ TTF, OTF, WOFF, WOFF2를 브라우저 안에서 서로 바꿉니다. 파일을 �
 
 숫자는 GitHub가 집계한 값입니다. [GitHub 공식 기여 기록 보기](https://github.com/hslcrb#contributions)
 
+[프로필 저장소 개발기](docs/devlog/README.md)
+
 ## 만드는 방식
 
 1. **기기에서 끝낼 수 있으면 서버를 두지 않습니다.** 이미지, 폰트, 녹음, 컴파일이 그렇습니다. 서버가 없으면 개인정보가 새어 나갈 곳도 없습니다.
